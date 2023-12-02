@@ -13,7 +13,7 @@ Este é um site simples que apresenta informações sobre mim, Gabriel, e destac
 Não há pré-requisitos específicos para visualizar este site. Basta ter um navegador da web.
 
 ## Como Visualizar
-Você pode acessar o site [clicando aqui] ou copiando e colando o seguinte URL no seu navegador: ``
+Você pode acessar o site [clicando aqui](https://gaabriel22.github.io/primeiro-site/) ou copiando e colando o seguinte URL no seu navegador: `https://gaabriel22.github.io/primeiro-site/`
 
 ## Como Contribuir
 Se você tiver sugestões ou melhorias para o site, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
